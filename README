@@ -1,0 +1,13 @@
+---------------------------------------------------------------------
+
+lol dont use this shit yet it doesn't work, but it should sometime?  
+
+This is a sandboxing tool -- a frontend to bubblewrap.
+
+It's goals are to do the following:
+	1. Make it easy for a `normie` to use, but not necessarily write configs for.
+	2. Work
+	3. Use TOML files to write configs
+	4. Replace a binary with a symlink to this program -- which will detect that and run the specified binary in a sandbox, according to the config
+
+---------------------------------------------------------------------
